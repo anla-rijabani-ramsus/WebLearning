@@ -1,0 +1,14 @@
+body {
+    background: linear-gradient(to right, rgba(229, 169, 91, 0.92), rgba(59,209,220, .92));
+    background-size: cover;
+}
+
+header {
+    background-color: brown;
+}
+
+footer {
+    background-color:brown;
+    margin-top: 5%;
+
+}
