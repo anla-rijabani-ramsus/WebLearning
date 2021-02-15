@@ -28,7 +28,7 @@
                       <a class="nav-link" href="HalamanUtama.php">Home <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link" href="Home.php"><b>Profil</b></a>
+                      <a class="nav-link" href="Profil.php"><b>Profil</b></a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="Kontak.php">Kontak</a>
