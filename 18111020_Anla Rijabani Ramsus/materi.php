@@ -46,7 +46,7 @@ try {
                       <a class="nav-link" href="HalamanUtama.php"><b>Home</b></a>
                     </li>
                     <li class="nav-item ">
-                      <a class="nav-link" href="Home.php">Profil</a>
+                      <a class="nav-link" href="Profil.php">Profil</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="Kontak.php">Kontak</a>
