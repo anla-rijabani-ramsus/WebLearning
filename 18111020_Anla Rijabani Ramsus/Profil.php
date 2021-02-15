@@ -65,17 +65,19 @@
                 <div class="card">
                     <div class="card-body">
                       <h2> Profil Saya</h2>
-                      <p>Hallo Nama Saya Anla Rijabani Ramsus </p>
-                          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Recusandae, dolorum blanditiis! 
-                            Aut ipsam veritatis autem fuga libero sint aperiam? 
-                            Pariatur ut nisi sint accusamus maxime vel aperiam explicabo enim laboriosam.</p>
-                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Recusandae, dolorum blanditiis! 
-                                Aut ipsam veritatis autem fuga libero sint aperiam? 
-                                Pariatur ut nisi sint accusamus maxime vel aperiam explicabo enim laboriosam.</p>
-                                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Recusandae, dolorum blanditiis! 
-                                    Aut ipsam veritatis autem fuga libero sint aperiam? 
-                                    Pariatur ut nisi sint accusamus maxime vel aperiam explicabo enim laboriosam.</p>  
-                    </div>
+                      <br>
+                      <p>Nama : Anla Rijabani Ramsus</p>
+                      </br>
+                      <br>
+                      <p>Kelas : TIFRP18 CID B</p>
+                      </br>
+                      <br>
+                      <p>Matkul : Pemrograman web1</p>
+                      </br>
+                      <br>
+                      <p>Materi : UAS WEB1</p>
+                      </br>
+                      </div>
                   </div>
                </div><!--Akhir Colom 8-->
 

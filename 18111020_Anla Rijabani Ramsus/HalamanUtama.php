@@ -56,11 +56,12 @@ include 'config/menampilkan_data.php';
         <div class="col-12 col-md-8 text-center">
           <h1 class="h1">Selamat Datang, Anla Rijabani Ramsus</h1>
           <p class="lead">DI Pembelajaran Pemrograman Web</p>
-          <a href="form_materi.php" class="btn btn-primary">Mulai belajar!</a></div></div></div></header>
+          <p class="lead">Mulai belajar!</p>
+          </div></div></div></header>
       <!-- Akhir Banner/Header -->
  
        <!-- Awal Konten -->
-   
+       <a href="form_materi.php" class="btn btn-primary">Tambahkan Materi</a></div></div></div></header>
 
  <div class="row">
     <?php while ($row = $q->fetch()) :
@@ -89,8 +90,7 @@ include 'config/menampilkan_data.php';
   </div>
   <div>
        <!-- Akhir Konten -->
-
-       
+      
        <!-- Awal Footer Bawah-->
      <footer class="warna-bg">
         <div class="text-white text-center pt-3 pb-3">

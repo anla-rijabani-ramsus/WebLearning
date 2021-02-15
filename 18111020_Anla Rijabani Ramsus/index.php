@@ -51,7 +51,12 @@
       <header class="jumbotron jumbotron-fluid bg-dark text-white m-0"><div class="container"><div class="row justify-content-center">
         <div class="col-12 col-md-8 text-center">
           <h1 class="h1">Belajar Pemrograman Web</h1>
-          <p class="lead">Jangan tunggu nanti, Ayo dari sekarang!</p><a href="#" class="btn btn-primary">Mulai belajar!</a></div></div></div></header>
+          <p class="lead">Jangan tunggu nanti, Ayo dari sekarang!</p>
+          <h1 class="lead">Mulai belajar!</a>
+          </div>
+          </div>
+          </div>
+          </header>
       <!-- Akhir Banner/Header Terbuat Dari Boostrap 4 -->
  
        <!-- Awal Konten Terbuat Dari Boostrap 4 -->      

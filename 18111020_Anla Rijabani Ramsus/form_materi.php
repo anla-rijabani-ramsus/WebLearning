@@ -53,7 +53,8 @@
         <div class="col-12 col-md-8 text-center">
           <h1 class="h1">Selamat Datang, Anla Rijabani Ramsus</h1>
           <p class="lead">DI Pembelajaran Pemrograman Web</p>
-          <a href="#" class="btn btn-primary">Mulai belajar!</a></div></div></div></header>
+          <h1 class="lead">Mulai belajar!</h1>
+          </div></div></div></header>
       <!-- Akhir Banner/Header -->
  
        <!-- Awal Konten -->

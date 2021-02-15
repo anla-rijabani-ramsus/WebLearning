@@ -71,18 +71,22 @@ try {
         <div class="col-12 col-md-8 text-center">
           <h1 class="h1">Selamat Datang, Anla Rijabani Ramsus</h1>
           <p class="lead">DI Pembelajaran Pemrograman Web</p>
-          <a href="#" class="btn btn-primary">Mulai belajar!</a></div></div></div></header>
+          <h1 class="lead">Mulai belajar!</h1>
+          </div>
+          </div>
+          </div>
+          </header>
       <!-- Akhir Banner/Header -->
  
        <!-- Awal Konten -->
        <div class="container">
       <div class="row">
       <div class="col-sm-9 col-xs-12 konten">
-          <img src=<?php echo $img; ?>>
-          <h6 class="card-title text-info"><?php echo $judul; ?></h6>
+          <img src=<?php $img; ?>>
+          <h6 class="card-title text-info"><?php $judul; ?></h6>
           <blockquote class="blockquote text-center">
-			<p><?php echo $descripsi; ?></p>
-			<footer class="blockquote-footer"><?php echo $footer; ?></footer>
+			<p><?php echo $desc; ?></p>
+	
 		</blockquote>
             <p class="spasi">Terima Kasih</p>
             
@@ -90,19 +94,11 @@ try {
           
       </div>
           <!--Col 4 Awal-->
-          <div class="col-sm-3 col-xs-12 sidebar">
-            <h3>Pencarian</h3>
-            <div class="progress" style="height: 1px;">
-                <div class="progress-bar" role="progressbar" style="width: 25%;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-              <input class="form-control" type="text" placeholder="Cari"> <!--form cari-->
+          
+             
 
               <!--web-->
-              <div class="dropdown">
-                <a class="btn btn-outline-info dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                  Web
-                </a>
-              
+             
                 <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
                   <a class="dropdown-item" href="info1.php">Pengenalan #1</a>
                   <a class="dropdown-item" href="info1.php">Pengenalan #2</a>
@@ -111,10 +107,7 @@ try {
                 <!--web-->
 
                 <!--php-->
-                <div class="dropdown">
-                    <a class="btn btn-outline-info dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                      Html
-                    </a>
+              
                   
                     <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
                       <a class="dropdown-item" href="info2.php">HTML #1</a>
@@ -123,10 +116,7 @@ try {
                 <!--php-->
 
                 <!--CSS-->
-                <div class="dropdown">
-                    <a class="btn btn-outline-info dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                      Css
-                    </a>
+              
                   
                     <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
                       <a class="dropdown-item" href="info3.php">CSS #1</a>
@@ -135,10 +125,7 @@ try {
                 <!--CSS-->
 
                 <!--bOOSTRAP-->
-                <div class="dropdown">
-                    <a class="btn btn-outline-info dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                      Boostrap
-                    </a>
+                
                   
                     <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
                       <a class="dropdown-item" href="info4.php">Boostrap #1</a>
